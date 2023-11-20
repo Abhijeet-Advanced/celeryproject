@@ -1,0 +1,2 @@
+# celeryproject
+Celery understanding 
